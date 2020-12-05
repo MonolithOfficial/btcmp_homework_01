@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58c02db9-f723-4a9d-9bb5-361bf62b49f7" name="Default Changelist" comment="" />
+    <list default="true" id="58c02db9-f723-4a9d-9bb5-361bf62b49f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +39,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.TestClass.executeTest (1)">
+    <configuration name="TestClass.executeTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="btcmp_homework_01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <option name="METHOD_NAME" value="executeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestClass.executeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="tbc_homework_1" />
       <option name="PACKAGE_NAME" value="" />
@@ -50,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestClass.executeTest (1)" />
         <item itemvalue="TestNG.TestClass.executeTest" />
       </list>
     </recent_temporary>
@@ -72,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

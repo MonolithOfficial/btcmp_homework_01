@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tbc_homework_1" />
+        <module name="btcmp_homework_01" />
       </profile>
     </annotationProcessing>
   </component>

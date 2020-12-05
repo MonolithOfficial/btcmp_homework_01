@@ -16,6 +16,8 @@ public class TestClass {
 
         driver.findElement(By.id("email")).sendKeys("cotneaburjania@gmail.com");
         driver.findElement(By.id("form_submit")).click();
+
+        driver.quit();
     }
 
 }
